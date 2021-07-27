@@ -1,0 +1,5 @@
+[wordpress-auths]
+enabled = true
+port = http,https
+filter = wordpress-auth
+logpath = /var/log/httpd/access_log
