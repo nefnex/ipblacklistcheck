@@ -4,7 +4,7 @@
 #
 # In which blacklist is your IP address listed? Check with our IP blacklist search your IPv4 / IPV6 or domain with over 100 blacklists.
 #
-# Website: https://www.ipblacklistcheck.de
+# Website: https://www.ipblacklistcheck.de/search/
 #
 # Free Registration https://www.ipblacklistcheck.de/regist/
 #
